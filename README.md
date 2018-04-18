@@ -10,3 +10,6 @@ R training notes for absolute beginners
 
 <h3>Lecture 3 - RTrainingLect3.pptx</h3>
 <ul><li>Introduction to regression; building predictive models</li></ul>
+
+<h3>Credits</h3>
+Kevin Blighe; Lu Zhu; Sharmila Rana
