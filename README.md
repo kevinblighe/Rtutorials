@@ -6,7 +6,7 @@ R training notes for absolute beginners
 
 <h3>Lecture 2 - RTrainingLect2_KBlighe.ppt</h3>
 <ul><li>Reading/writing data; working with large data; introduction to plotting functions</li></ul>
-*plus additional txt files for large and small data
+<i>*plus additional txt files for large and small data</i>
 
 <h3>Lecture 3 - RTrainingLect3.pptx</h3>
 <ul><li>Introduction to regression; building predictive models</li></ul>
