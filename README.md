@@ -12,4 +12,8 @@ R training notes for absolute beginners
 <ul><li>Introduction to regression; building predictive models</li></ul>
 
 <h3>Credits</h3>
-Kevin Blighe; Lu Zhu; Sharmila Rana
+<ul>
+  <li>Kevin Blighe (Queen Mary University of London)</li>
+  <li>Lu Zhu (Queen Mary University of London)</li>
+  <li>Sharmila Rana (Queen Mary University of London)</li>
+</ul>
